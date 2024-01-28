@@ -1,0 +1,3 @@
+[submodule "Stingray/vendor/spdlog"]
+	path = Stingray/vendor/spdlog
+	url = https://github.com/gabime/spdlog
